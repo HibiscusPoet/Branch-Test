@@ -2,4 +2,6 @@ This is initial commit.
 
 This is Ranwolf's commit.
 
-This is Ranwolf's commit on Ranwolf's branch.
+This is Ranwolf's commit on Ranwolf's.
+
+This is Ranwolf's commit, but parts of previous commits are deleted.
